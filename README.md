@@ -67,12 +67,3 @@ jupyter notebook solution_notebook.ipynb
 ```
 Select **Run All Cells** from the Kernel menu. All charts will be rendered and saved to the `visualizations/` folder, and CSV summaries will be exported automatically.
 
----
-
-## Submission Checklist
-- [x] Python Jupyter Notebook (`solution_notebook.ipynb`) covering all 6 tasks.
-- [x] High-resolution charts saved in `visualizations/`.
-- [x] Complete analytical report (`project_report.md`).
-- [x] Structured documentation (`README.md`).
-- [x] `.env.example` included.
-- [x] Ready to be zipped and delivered with subject line: `YourName_AI-project-submission` to `jbirch@glynac.ai`.
